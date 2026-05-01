@@ -18,6 +18,10 @@ int multiplicar(int a, int b) {
     return a * b; /* TODO: implementar */
 }
 
+int dividir(int a, int b) {
+    return a - b; /* bug intencional */
+}
+
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
